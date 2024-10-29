@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: #334155;
+}
+.conatiner__person{
+    max-width: 1300px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: inherit;
+    color: inherit;
+}
+li{
+    list-style: none;
+}
